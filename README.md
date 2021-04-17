@@ -13,7 +13,7 @@ I'm currently a SE student from Lisbon, Portugal, at Instituto Superior Técnico
 
 ---
 
-[![My GitHub Stats]((https://github-readme-stats.vercel.app/api?username=randomicecube&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats))][github]
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Card&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)][github]
+[![My GitHub Stats]((https://github-readme-stats.vercel.app/api?username=randomicecube&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats))
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Card&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/randomicecube
