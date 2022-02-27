@@ -12,8 +12,6 @@
 
 <br>
 
----
-
 ## 🧰 Languages and Tools:
 
 <br>
@@ -38,8 +36,6 @@ alt="Neovim" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br>
-
----
 
 ## Links & Contacts:
 
