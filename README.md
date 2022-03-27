@@ -8,8 +8,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randomicecube&layout=compact&theme=dark&langs_count=8)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=randomicecube&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
-
 <br>
 
 ## 🧰 Languages and Tools:
