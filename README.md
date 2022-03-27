@@ -39,12 +39,12 @@ alt="Neovim" height="40" style="vertical-align:top; margin:4px">
 
 ## 🌱 Github Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=randomicecube&theme=algolia" alt="randomicecube"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=randomicecube&theme=dark" alt="randomicecube"/></p>
 
 ## ⚡ Recent GitHub Activity
 
 <br/>
- <a href="https://github.com/pearsettings44"><img alt="randomicecube's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randomicecube&custom_title=randomicecube's%20Contribution%20Graph&theme=react-dark" /></a>
+ <a href="https://github.com/pearsettings44"><img alt="randomicecube's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randomicecube&custom_title=randomicecube's%20Contribution%20Graph&theme=xcode" /></a>
 <br/>
 
 ## Links & Contacts:
