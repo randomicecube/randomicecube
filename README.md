@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-**I’m Diogo Gaspar, currently a sophomore studying Comp. Sci. and Engineering at Instituto Superior Técnico!**
+**I’m Diogo Gaspar, currently a third year student, taking CSE at IST, Lisbon!**
 
 <br>
 
@@ -36,9 +36,7 @@ alt="Neovim" height="40" style="vertical-align:top; margin:4px">
 
 ## ⚡ Recent GitHub Activity
 
-<br/>
- <a href="https://github.com/pearsettings44"><img alt="randomicecube's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randomicecube&custom_title=randomicecube's%20Contribution%20Graph&theme=xcode" /></a>
-<br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=randomicecube&bg_color=0e1e25&color=3f7b83&line=3e706f&point=a76c6c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Links & Contacts:
 
