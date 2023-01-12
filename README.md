@@ -6,10 +6,6 @@
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randomicecube&layout=compact&theme=dark&langs_count=8)
-
-<br>
-
 ## 🧰 Languages and Tools:
 
 <br>
