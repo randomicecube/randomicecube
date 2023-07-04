@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-**I’m Diogo Gaspar, currently a third year student, taking CSE at IST, Lisbon!**
+**I’m Diogo Gaspar, currently a first year MSc student, taking CS at KTH, Stockholm!**
 
 <br>
 
@@ -32,13 +32,15 @@ alt="Neovim" height="40" style="vertical-align:top; margin:4px">
 
 ## ⚡ Recent GitHub Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=randomicecube&bg_color=0e1e25&color=3f7b83&line=3e706f&point=a76c6c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=randomicecube&bg_color=f5e0eb&color=897b67&line=d5866c&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Links & Contacts:
 
 <br>
 
 Website: [gaspa.pt](https://gaspa.pt)
+
+CV: [cv.gaspa.pt](https://cv.gaspa.pt)
 
 E-mail: [diogo@gaspa.pt](mailto:diogo@gaspa.pt)
 
